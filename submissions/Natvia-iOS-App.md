@@ -59,4 +59,4 @@ https://github.com/sookim-1/Tthing-iOS
 
 
 ## Demo Video/Photos  
-[Demo Video]([https://drive.google.com/file/d/1tN1JEztRW4NjxTyOFluEX_yJwYTrswvp/view?usp=sharing](https://drive.google.com/file/d/1K5ENOFqTTxhZptsFk3YGTQVLPJl40h4M/view?usp=sharing))
+[Demo Video](https://drive.google.com/file/d/1K5ENOFqTTxhZptsFk3YGTQVLPJl40h4M/view?usp=sharing)
